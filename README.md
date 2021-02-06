@@ -1,2 +1,2 @@
 # first_git_repo
-first repository in github
+first repository in github!
